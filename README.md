@@ -1,3 +1,3 @@
-# Otimizaçõa Combinatório
+# Otimização Combinatório
 
 Exemplos e demonstrações para a disciplina "Otimização Combinatória"
